@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSequenceItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SequenceItem>
+    <Name>bb</Name>
+    <Scripts>
+      <ScriptItem>
+        <Name>signPackage.bat</Name>
+        <Path>G:\Desktop\桌面\signPackage.bat</Path>
+        <Parameters />
+        <Description />
+        <ScriptType>BAT</ScriptType>
+      </ScriptItem>
+      <ScriptItem>
+        <Name>import datetime.py</Name>
+        <Path>G:\Desktop\import datetime.py</Path>
+        <Parameters />
+        <Description />
+        <ScriptType>Python</ScriptType>
+      </ScriptItem>
+    </Scripts>
+  </SequenceItem>
+  <SequenceItem>
+    <Name>cc</Name>
+    <Scripts />
+  </SequenceItem>
+</ArrayOfSequenceItem>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScriptItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ScriptItem>
+    <Name>import datetime.py</Name>
+    <Path>G:\Desktop\import datetime.py</Path>
+    <Parameters />
+    <Description />
+    <ScriptType>Python</ScriptType>
+  </ScriptItem>
+  <ScriptItem>
+    <Name>signPackage.bat</Name>
+    <Path>G:\Desktop\桌面\signPackage.bat</Path>
+    <Parameters />
+    <Description />
+    <ScriptType>BAT</ScriptType>
+  </ScriptItem>
+  <ScriptItem>
+    <Name>nodegenerate.py</Name>
+    <Path>G:\Desktop\桌面\nodegenerate.py</Path>
+    <Parameters>-t xx</Parameters>
+    <Description />
+    <ScriptType>Python</ScriptType>
+  </ScriptItem>
+</ArrayOfScriptItem>
